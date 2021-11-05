@@ -5,4 +5,5 @@ git tracks changes of files.
 <<<<<<< HEAD
 =======
 Creating a new branch is quick and simple.
+add merge
 >>>>>>> feature1
